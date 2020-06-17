@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/yes-form/static/css/main.b4978845.chunk.css",
+    "main.js": "/yes-form/static/js/main.a33e72bf.chunk.js",
+    "main.js.map": "/yes-form/static/js/main.a33e72bf.chunk.js.map",
+    "runtime-main.js": "/yes-form/static/js/runtime-main.e0c25400.js",
+    "runtime-main.js.map": "/yes-form/static/js/runtime-main.e0c25400.js.map",
+    "static/js/2.088c5f07.chunk.js": "/yes-form/static/js/2.088c5f07.chunk.js",
+    "static/js/2.088c5f07.chunk.js.map": "/yes-form/static/js/2.088c5f07.chunk.js.map",
+    "index.html": "/yes-form/index.html",
+    "precache-manifest.371eef42e7e4f75325fa80efa969c6fe.js": "/yes-form/precache-manifest.371eef42e7e4f75325fa80efa969c6fe.js",
+    "service-worker.js": "/yes-form/service-worker.js",
+    "static/css/main.b4978845.chunk.css.map": "/yes-form/static/css/main.b4978845.chunk.css.map",
+    "static/js/2.088c5f07.chunk.js.LICENSE.txt": "/yes-form/static/js/2.088c5f07.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/yes-form/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e0c25400.js",
+    "static/js/2.088c5f07.chunk.js",
+    "static/css/main.b4978845.chunk.css",
+    "static/js/main.a33e72bf.chunk.js"
+  ]
+}
